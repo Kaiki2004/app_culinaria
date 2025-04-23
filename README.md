@@ -1,7 +1,5 @@
 # 📝 Recipe Finder - Buscador de Receitas
 
-![Recipe Finder Banner](https://via.placeholder.com/1200x400/242424/646cff?text=Recipe+Finder) <!-- Substitua por uma imagem real do seu projeto -->
-
 ## 📌 Sobre o Projeto
 
 O **Recipe Finder** é uma aplicação web que permite aos usuários buscar receitas culinárias utilizando a API Spoonacular. Os usuários podem pesquisar por diferentes tipos de receitas, visualizar detalhes e salvar suas favoritas para acesso posterior.
@@ -30,16 +28,9 @@ Principais funcionalidades:
 ## 🖼 Screenshots
 
 ### Página Principal
-![Home Page](https://via.placeholder.com/600x400/242424/646cff?text=Home+Page)  
+![Home Page](./src/assets/culinaria.png)  
 *Interface de busca com grid de receitas*
 
-### Receitas Salvas
-![Saved Recipes](https://via.placeholder.com/600x400/242424/646cff?text=Saved+Recipes)  
-*Página com todas as receitas salvas pelo usuário*
-
-### Página 404
-![404 Page](https://via.placeholder.com/600x400/242424/646cff?text=404+Not+Found)  
-*Página personalizada para rotas não encontradas*
 
 ## 🚀 Como Executar o Projeto
 
