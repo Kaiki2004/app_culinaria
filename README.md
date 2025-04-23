@@ -58,6 +58,7 @@ Principais funcionalidades:
 
 5. **Acesse:**
    Abra seu navegador em [http://localhost:5173](http://localhost:5173)
+   
    Link deploy: https://app-culinaria.vercel.app
 
 ## 📝 Licença
